@@ -1,4 +1,4 @@
-l1 = [101, 102, 103, 104]
+l1 = ["diya@gmail.com","jiya@gmail.com"]
 s = int(input("Enter Your ID: "))
 
 if s in l1:
